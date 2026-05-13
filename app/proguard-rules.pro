@@ -1,0 +1,3 @@
+-keep class com.google.firebase.** { *; }
+-keep class com.manekelsa.app.domain.model.** { *; }
+-dontwarn org.jetbrains.annotations.**
