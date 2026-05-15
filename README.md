@@ -14,6 +14,7 @@
 - Offline-first local cache
 - Firebase-ready backend integration
 - Kannada-first accessible UI
+<img width="1400" height="900" alt="Worker Onboarding" src="https://github.com/user-attachments/assets/67185464-eabc-4ca9-b627-4db1dd26f697" />
 
 ## Tech Stack
 
