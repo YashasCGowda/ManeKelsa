@@ -1,3 +1,6 @@
+<img width="1600" height="900" alt="Architecture" src="https://github.com/user-attachments/assets/c53c3cbf-ba46-4bbc-8ef1-f85c07e39751" />
+<img width="1400" height="900" alt="Customer Home" src="https://github.com/user-attachments/assets/8e9ca38f-711f-4721-b9e1-3dce39571db0" />
+<img width="1400" height="900" alt="Customer Home" src="https://github.com/user-attachments/assets/d8010cc7-1c44-43ad-9325-fa603b2c60bd" />
 1. Product Vision
 In many small towns, finding local household help is still handled informally through word of mouth, neighbors, or phone contacts. This creates friction for both sides:
 
